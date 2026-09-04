@@ -1,7 +1,7 @@
 <?php
 
 $nome = "Caroline Falcão de Souza";
-$profissao = "Instrutora de Formação Profissional";
+$profissao = "Instrutora de Formação Profissional e Desenvolvedora Mobile";
 $mensagem = "Meu primeiro projeto em PHP com Git e GitHub";
 
 ?>
